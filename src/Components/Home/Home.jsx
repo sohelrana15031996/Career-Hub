@@ -1,10 +1,19 @@
-import Header from "../Header/Header";
+import Banner from "../Banner/Banner";
+import FeaturesJobs from "../FeaturesJob/FeaturesJobs";
+import JobCatagory from "../JobCatagory/JobCatagory";
+
 
 
 const Home = () => {
+
+  
   return (
     <div>
-      <Header></Header>
+      <div>
+        <Banner></Banner>
+        <JobCatagory></JobCatagory>
+        <FeaturesJobs></FeaturesJobs>
+      </div>
     </div>
   );
 };

@@ -1,0 +1,252 @@
+[
+  {
+      "job_id": "1",
+      "title": "Software Engineer",
+      "company": "Tech Innovators Inc.",
+      "location": "San Francisco, CA",
+      "salary": "120000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Onsite",
+      "description": "Tech Innovators Inc. is looking for a Software Engineer to develop and maintain web applications for various clients using modern web technologies. You will be responsible for designing, coding, and modifying websites, from layout to function according to a client's specifications. Strive to create visually appealing sites that feature user-friendly design and clear navigation.",
+      "responsibilities": [
+          "Write clean, scalable code using JavaScript and related frameworks.",
+          "Collaborate with cross-functional teams to define and design new features.",
+          "Perform code reviews and ensure the application meets quality standards.",
+          "Troubleshoot and debug applications.",
+          "Maintain the existing codebase, including troubleshooting bugs and adding new features."
+      ],
+      "requirements": ["JavaScript", "React", "Node.js"],
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "posted_date": "2024-07-10",
+      "contact_info": {
+          "email": "hr@techinnovators.com",
+          "phone": "415-555-1234"
+      },
+      "company_logo": "https://example.com/logos/techinnovators.png"
+  },
+  {
+      "job_id": "2",
+      "title": "Data Scientist",
+      "company": "Data Insights Co.",
+      "location": "New York, NY",
+      "salary": "115000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Remote",
+      "description": "Data Insights Co. seeks a Data Scientist to analyze large datasets to derive actionable insights and support data-driven decision making. The ideal candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.",
+      "responsibilities": [
+          "Develop and implement data models and algorithms.",
+          "Interpret data and analyze results using statistical techniques.",
+          "Present findings and insights to stakeholders.",
+          "Collaborate with engineering and product development teams.",
+          "Identify and propose innovative ways to leverage data to drive business solutions."
+      ],
+      "requirements": ["Python", "Machine Learning", "SQL"],
+      "educational_requirements": "Master's degree in Data Science, Statistics, or related field.",
+      "posted_date": "2024-07-09",
+      "contact_info": {
+          "email": "jobs@datainsights.co",
+          "phone": "212-555-5678"
+      },
+      "company_logo": "https://example.com/logos/datainsights.png"
+  },
+  {
+      "job_id": "3",
+      "title": "Product Manager",
+      "company": "Innovative Solutions",
+      "location": "Austin, TX",
+      "salary": "105000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Onsite",
+      "description": "Innovative Solutions is hiring a Product Manager to oversee product development from ideation to launch, ensuring alignment with business goals. You will be the go-to person for everything involving a product’s lifecycle, from conception to execution.",
+      "responsibilities": [
+          "Define product vision and strategy.",
+          "Gather and prioritize product and customer requirements.",
+          "Work closely with engineering, design, and marketing teams.",
+          "Ensure products meet quality standards and are delivered on time.",
+          "Monitor and analyze product performance and iterate to improve user experience."
+      ],
+      "requirements": ["Agile", "Scrum", "Product Lifecycle Management"],
+      "educational_requirements": "Bachelor's degree in Business, Marketing, or related field. MBA preferred.",
+      "posted_date": "2024-07-08",
+      "contact_info": {
+          "email": "careers@innovativesolutions.com",
+          "phone": "512-555-7890"
+      },
+      "company_logo": "https://example.com/logos/innovativesolutions.png"
+  },
+  {
+      "job_id": "4",
+      "title": "UX Designer",
+      "company": "Creative Designs Ltd.",
+      "location": "Los Angeles, CA",
+      "salary": "95000",
+      "job_type": "Part-Time",
+      "work_arrangement": "Remote",
+      "description": "Creative Designs Ltd. is seeking a UX Designer to design user-friendly interfaces and experiences for our digital products. You will work closely with product managers and developers to turn creative concepts into elegant user experiences.",
+      "responsibilities": [
+          "Conduct user research and usability testing.",
+          "Create wireframes, prototypes, and high-fidelity designs.",
+          "Collaborate with product managers and developers.",
+          "Ensure designs meet accessibility standards.",
+          "Stay updated with industry trends and best practices in UX design."
+      ],
+      "requirements": ["Figma", "Adobe XD", "User Research"],
+      "educational_requirements": "Bachelor's degree in Design, HCI, or related field.",
+      "posted_date": "2024-07-07",
+      "contact_info": {
+          "email": "design@creativedesigns.com",
+          "phone": "323-555-1011"
+      },
+      "company_logo": "https://example.com/logos/creativedesigns.png"
+  },
+  {
+      "job_id": "5",
+      "title": "DevOps Engineer",
+      "company": "Cloud Services Inc.",
+      "location": "Seattle, WA",
+      "salary": "110000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Onsite",
+      "description": "Cloud Services Inc. is looking for a DevOps Engineer to manage and automate cloud infrastructure to ensure high availability and scalability. You will be part of a talented team of engineers that demonstrate superb technical competency, delivering mission-critical infrastructure and ensuring the highest levels of availability, performance, and security.",
+      "responsibilities": [
+          "Design and implement CI/CD pipelines.",
+          "Monitor and optimize cloud infrastructure.",
+          "Collaborate with development teams to streamline deployment processes.",
+          "Ensure security and compliance of cloud services.",
+          "Automate and improve development and release processes."
+      ],
+      "requirements": ["AWS", "Docker", "Kubernetes"],
+      "educational_requirements": "Bachelor's degree in Computer Science, Information Technology, or related field.",
+      "posted_date": "2024-07-06",
+      "contact_info": {
+          "email": "jobs@cloudservices.com",
+          "phone": "206-555-1212"
+      },
+      "company_logo": "https://example.com/logos/cloudservices.png"
+  },
+  {
+      "job_id": "6",
+      "title": "Marketing Specialist",
+      "company": "Brand Builders",
+      "location": "Chicago, IL",
+      "salary": "80000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Remote",
+      "description": "Brand Builders is seeking a Marketing Specialist to develop and execute marketing campaigns to enhance brand visibility and engagement. You will work closely with the marketing team to create content and strategies that drive brand awareness and customer engagement.",
+      "responsibilities": [
+          "Create and manage content for social media and other marketing channels.",
+          "Analyze campaign performance and report on metrics.",
+          "Coordinate with design and product teams to create marketing materials.",
+          "Stay updated with industry trends and competitor activities.",
+          "Develop and execute SEO strategies to improve organic search performance."
+      ],
+      "requirements": ["SEO", "Content Marketing", "Google Analytics"],
+      "educational_requirements": "Bachelor's degree in Marketing, Communications, or related field.",
+      "posted_date": "2024-07-05",
+      "contact_info": {
+          "email": "hr@brandbuilders.com",
+          "phone": "312-555-1313"
+      },
+      "company_logo": "https://example.com/logos/brandbuilders.png"
+  },
+  {
+      "job_id": "7",
+      "title": "Sales Manager",
+      "company": "Retail Leaders",
+      "location": "Dallas, TX",
+      "salary": "90000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Onsite",
+      "description": "Retail Leaders is looking for a Sales Manager to lead a team of sales representatives to achieve sales targets and grow revenue. You will be responsible for developing and implementing sales strategies to drive sales performance and support business growth.",
+      "responsibilities": [
+          "Develop sales strategies and set performance goals.",
+          "Train and mentor sales team members.",
+          "Monitor sales metrics and provide regular reports.",
+          "Build and maintain relationships with key clients.",
+          "Analyze market trends to identify new sales opportunities."
+      ],
+      "requirements": ["CRM", "Sales Strategy", "Customer Relationship"],
+      "educational_requirements": "Bachelor's degree in Business Administration, Sales, or related field.",
+      "posted_date": "2024-07-04",
+      "contact_info": {
+          "email": "jobs@retailleaders.com",
+          "phone": "214-555-1414"
+      },
+      "company_logo": "https://example.com/logos/retailleaders.png"
+  },
+  {
+      "job_id": "8",
+      "title": "Network Engineer",
+      "company": "IT Solutions Corp.",
+      "location": "Denver, CO",
+      "salary": "95000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Onsite",
+      "description": "IT Solutions Corp. is seeking a Network Engineer to maintain and troubleshoot network systems to ensure reliable connectivity and security. You will be responsible for designing, implementing, and supporting network infrastructures.",
+      "responsibilities": [
+          "Design and implement network solutions.",
+          "Monitor network performance and resolve issues.",
+          "Ensure network security and compliance.",
+          "Collaborate with IT teams to support overall infrastructure.",
+          "Document network configurations and changes."
+      ],
+      "requirements": ["Cisco", "Network Security", "LAN/WAN"],
+      "educational_requirements": "Bachelor's degree in Computer Science, Information Technology, or related field.",
+      "posted_date": "2024-07-03",
+      "contact_info": {
+          "email": "careers@itsolutions.com",
+          "phone": "303-555-1515"
+      },
+      "company_logo": "https://example.com/logos/itsolutions.png"
+  },
+  {
+      "job_id": "9",
+      "title": "HR Manager",
+      "company": "Global Enterprises",
+      "location": "Miami, FL",
+      "salary": "85000",
+      "job_type": "Full-Time",
+      "work_arrangement": "Onsite",
+      "description": "Global Enterprises is hiring an HR Manager to manage HR functions and policies to support the organization's workforce and culture. You will oversee recruitment, employee relations, performance management, and compliance.",
+      "responsibilities": [
+          "Oversee recruitment and onboarding processes.",
+          "Develop and implement HR policies and procedures.",
+          "Manage employee relations and performance management.",
+          "Ensure compliance with labor laws and regulations.",
+          "Maintain HR records and prepare reports."
+      ],
+      "requirements": ["HRIS", "Employee Relations", "Recruitment"],
+      "educational_requirements": "Bachelor's degree in Human Resources, Business Administration, or related field.",
+      "posted_date": "2024-07-02",
+      "contact_info": {
+          "email": "hr@globalenterprises.com",
+          "phone": "305-555-1616"
+      },
+      "company_logo": "https://example.com/logos/globalenterprises.png"
+  },
+  {
+      "job_id": "10",
+      "title": "Graphic Designer",
+      "company": "Visual Arts Studio",
+      "location": "Portland, OR",
+      "salary": "70000",
+      "job_type": "Part-Time",
+      "work_arrangement": "Remote",
+      "description": "Visual Arts Studio is looking for a Graphic Designer to create visual content for marketing and branding across various platforms. You will work closely with the marketing team to bring creative ideas to life and ensure visual consistency across all channels.",
+      "responsibilities": [
+          "Design graphics for websites, social media, and print materials.",
+          "Collaborate with marketing team to develop creative concepts.",
+          "Ensure consistency in brand visual language.",
+          "Stay updated with design trends and software.",
+          "Prepare rough drafts and present ideas."
+      ],
+      "requirements": ["Adobe Creative Suite", "Illustration", "Typography"],
+      "educational_requirements": "Bachelor's degree in Graphic Design, Fine Arts, or related field.",
+      "posted_date": "2024-07-01",
+      "contact_info": {
+          "email": "design@visualartsstudio.com",
+          "phone": "503-555-1717"
+      },
+      "company_logo": "https://example.com/logos/visualartsstudio.png"
+  }
+]
