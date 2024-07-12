@@ -22,7 +22,7 @@
           "email": "hr@techinnovators.com",
           "phone": "415-555-1234"
       },
-      "company_logo": "https://example.com/logos/techinnovators.png"
+      "company_logo": "https://i.postimg.cc/VLd7mZKh/google.png"
   },
   {
       "job_id": "2",
@@ -47,7 +47,7 @@
           "email": "jobs@datainsights.co",
           "phone": "212-555-5678"
       },
-      "company_logo": "https://example.com/logos/datainsights.png"
+      "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
       "job_id": "3",
@@ -72,7 +72,7 @@
           "email": "careers@innovativesolutions.com",
           "phone": "512-555-7890"
       },
-      "company_logo": "https://example.com/logos/innovativesolutions.png"
+      "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
       "job_id": "4",
@@ -97,7 +97,7 @@
           "email": "design@creativedesigns.com",
           "phone": "323-555-1011"
       },
-      "company_logo": "https://example.com/logos/creativedesigns.png"
+      "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
       "job_id": "5",
@@ -122,7 +122,7 @@
           "email": "jobs@cloudservices.com",
           "phone": "206-555-1212"
       },
-      "company_logo": "https://example.com/logos/cloudservices.png"
+      "company_logo": "https://i.postimg.cc/VLd7mZKh/google.png"
   },
   {
       "job_id": "6",
@@ -147,7 +147,7 @@
           "email": "hr@brandbuilders.com",
           "phone": "312-555-1313"
       },
-      "company_logo": "https://example.com/logos/brandbuilders.png"
+      "company_logo": "https://i.postimg.cc/dtb9vsk7/tesla.png"
   },
   {
       "job_id": "7",
@@ -172,7 +172,7 @@
           "email": "jobs@retailleaders.com",
           "phone": "214-555-1414"
       },
-      "company_logo": "https://example.com/logos/retailleaders.png"
+      "company_logo": "https://i.postimg.cc/dtb9vsk7/tesla.png"
   },
   {
       "job_id": "8",
@@ -197,7 +197,7 @@
           "email": "careers@itsolutions.com",
           "phone": "303-555-1515"
       },
-      "company_logo": "https://example.com/logos/itsolutions.png"
+      "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
       "job_id": "9",
@@ -222,7 +222,7 @@
           "email": "hr@globalenterprises.com",
           "phone": "305-555-1616"
       },
-      "company_logo": "https://example.com/logos/globalenterprises.png"
+      "company_logo": "https://i.postimg.cc/wMPQ1HwG/netflix.png"
   },
   {
       "job_id": "10",
@@ -247,6 +247,6 @@
           "email": "design@visualartsstudio.com",
           "phone": "503-555-1717"
       },
-      "company_logo": "https://example.com/logos/visualartsstudio.png"
+      "company_logo": "https://i.postimg.cc/VLd7mZKh/google.png"
   }
 ]

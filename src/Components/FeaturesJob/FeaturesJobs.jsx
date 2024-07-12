@@ -6,8 +6,14 @@ import JobList from "../JobList/JobList";
 const FeaturesJobs = () => {
   const jobs = useContext(JobContext);
   console.log(jobs);
-  const [count, setCount]= useState(4);
-  const addAll = () => setCount(count+(jobs.length - 1));
+  const [count, setCount] = useState(4);
+  const addAll = () => {
+    if (count !== jobs.length){
+      setCount(count+(jobs.length - 4));
+    }
+  };
+
+  console.log(count)
   return (
     <div className="">
       <div className="text-center">
@@ -16,11 +22,11 @@ const FeaturesJobs = () => {
       </div>
       <div>
         {
-          jobs.slice(0,count).map(job => <JobList key={job.job_id} job={job}></JobList>)
+          jobs.slice(0, count).map(job => <JobList key={job.job_id} job={job}></JobList>)
         }
       </div>
-      <div>
-        <button className="" onClick={addAll}>Show more</button>
+      <div className="text-center my-4">
+        <button className="btn btn-accent text-center" onClick={addAll}>Show All</button>
       </div>
     </div>
   );
