@@ -20,7 +20,7 @@ const FeaturesJobs = () => {
         <h1 className="text-5xl">Featured Jobs</h1>
         <p>Explore thousands of job opportunities with all the information you need. Its your future</p>
       </div>
-      <div>
+      <div className="grid grid-cols-2 gap-6">
         {
           jobs.slice(0, count).map(job => <JobList key={job.job_id} job={job}></JobList>)
         }
