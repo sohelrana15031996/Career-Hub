@@ -1,7 +1,8 @@
 import PropType from 'prop-types'
+import { Link } from 'react-router-dom';
 
 const JobList = ({ job }) => {
-  const { company_logo,title, company, salary, work_arrangement, job_type, location } = job;
+  const { job_id,company_logo, title, company, salary, work_arrangement, job_type, location } = job;
   return (
     <div>
       <div className="card bg-base-100 shadow-xl">
@@ -23,7 +24,9 @@ const JobList = ({ job }) => {
             <p>Salary: {salary}</p>
           </div>
           <div className="card-actions">
-            <button className="btn btn-primary">Show Details</button>
+            <Link to={`./jobs/${job_id}`}>
+              <button className="btn btn-primary">Show Details</button>
+            </Link>
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 [
   {
-      "job_id": "1",
+      "job_id": 1,
       "title": "Software Engineer",
       "company": "Tech Innovators Inc.",
       "location": "San Francisco, CA",
@@ -25,7 +25,7 @@
       "company_logo": "https://i.postimg.cc/VLd7mZKh/google.png"
   },
   {
-      "job_id": "2",
+      "job_id":  2,
       "title": "Data Scientist",
       "company": "Data Insights Co.",
       "location": "New York, NY",
@@ -50,7 +50,7 @@
       "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
-      "job_id": "3",
+      "job_id": 3,
       "title": "Product Manager",
       "company": "Innovative Solutions",
       "location": "Austin, TX",
@@ -75,7 +75,7 @@
       "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
-      "job_id": "4",
+      "job_id": 4,
       "title": "UX Designer",
       "company": "Creative Designs Ltd.",
       "location": "Los Angeles, CA",
@@ -100,7 +100,7 @@
       "company_logo": "https://i.postimg.cc/gkXKfXJF/airbnb.png"
   },
   {
-      "job_id": "5",
+      "job_id": 5,
       "title": "DevOps Engineer",
       "company": "Cloud Services Inc.",
       "location": "Seattle, WA",
@@ -125,7 +125,7 @@
       "company_logo": "https://i.postimg.cc/VLd7mZKh/google.png"
   },
   {
-      "job_id": "6",
+      "job_id": 6,
       "title": "Marketing Specialist",
       "company": "Brand Builders",
       "location": "Chicago, IL",
