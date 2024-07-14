@@ -5,15 +5,12 @@ import JobList from "../JobList/JobList";
 
 const FeaturesJobs = () => {
   const jobs = useContext(JobContext);
-  console.log(jobs);
   const [count, setCount] = useState(4);
   const addAll = () => {
     if (count !== jobs.length){
       setCount(count+(jobs.length - 4));
     }
   };
-
-  console.log(count)
   return (
     <div className="">
       <div className="text-center">

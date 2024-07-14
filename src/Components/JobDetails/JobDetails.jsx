@@ -1,13 +1,16 @@
 import { useLoaderData, useParams } from "react-router-dom";
+import { itemClicked } from "../../Utilities/localSorage";
 
 const JobDetails = () => {
   const jods = useLoaderData();
   const {job_id} = useParams();
 
-  console.log(job_id, jods);
-
   const job = jods.find(job=>job.job_id == job_id);
 const {description,title, location} =job;
+
+const itemGet = (id)=>{
+  itemClicked(id);
+}
  
 
   return (
@@ -18,7 +21,7 @@ const {description,title, location} =job;
       </div>
       <div className="flex flex-col gap-4">
         {location}
-        <button className="btn btn-accent">Apply Now</button>
+        <button className="btn btn-accent" onClick={()=>itemGet(job_id)}>Apply Now</button>
       </div>
     </div>
   );
